@@ -8,4 +8,4 @@ This version has not been taken down for DMCA (probably since it was owned by No
 
 This version is a reupload I released May 3, 2022. It has not been touched since then.
 
-Live version [here](https://minecraftchromedev.github.io/eaglecraftsingleplayer/Singleplayer.html)
+Live version [here](https://samdan9.github.io/eaglecraftsingleplayer/Singleplayer.html)
